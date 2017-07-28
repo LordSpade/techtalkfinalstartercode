@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+}
+
+
+h1{
+    color:grey;
+    text-align:center;
+    font-weight:bold;
+    border: 10px solid grey;
+}
+ p{
+     color:grey;
+     font-size:18px;
+     text-align: center;
+     
+ }
+img{
+    display:block;
+    margin: auto;
+    width: 50%
+}
